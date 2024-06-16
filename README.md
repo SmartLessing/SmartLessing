@@ -5,6 +5,7 @@
 - 📫 How to reach me https://threema.id/P7RT8RZ7
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 21,110 kWp; 21 kWh battery; 71 IoT devices (mostly Shelly) connected to Apple HomeKit and SMA Home Manager 2.0 and an ID.4 Pro EV
+- ⚡ My Heatpump: https://www.waermepumpen-verbrauchsdatenbank.de/index.php?button=verbrauchanl&showver=3342
 
 <!---
 SmartLessing/SmartLessing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
